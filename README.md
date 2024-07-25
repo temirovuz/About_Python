@@ -1,4 +1,4 @@
-> **Python** - bu umumiy maqsadli, yuqori darajali dasturlash tili bo'lib, uninrg sintaksisi **soddaligi** va 
+> **Python** - bu umumiy maqsadli, yuqori darajali dasturlash tili bo'lib, uning sintaksisi **soddaligi** va 
 > **o'qilishi osonligi** bilan ajralib turadi
 >  Bu tilni dasturchi **Guido van Rossum 1991 yilda** yaratgan.
 
