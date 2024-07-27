@@ -20,9 +20,13 @@
    * **Boolean** - Mantiqiy qiymatlar, "True" yoki "False"
 2. **Murakkab (Complex) malumot turi** 
    * **List (ro'yxat)** - O'zgaruvchan (mutable) kolleksiya turi bolib turli xil elementlarni oz ichiga olishi mumkin.
+   * ![20240727_210530](https://github.com/user-attachments/assets/900c8d24-43e1-4c11-b9d9-f65eb15af5f8)
    * **Tuple (kortej)** - O'zgarmas (immutabel) kolleksiya turi bolib elementlar soni ozgarmaydi.
+   * ![20240727_210803](https://github.com/user-attachments/assets/4cf2d5cc-beed-4949-afb5-eb59ec6a795e)
    * **Dictionary (lug'at)** - Kalit-qiymat (key-value) juftliklaridan iborat kolleksiya turi.
+   * ![20240727_210712](https://github.com/user-attachments/assets/3eecffe2-50b5-4046-8d94-caf85a43bed2)
    * **Set (to'plam)** - Unikal elementlar kelleksiyasi bolib tartibsiz (unordered).
+   * ![20240728_011239](https://github.com/user-attachments/assets/82ecd354-6f2a-4984-b0c6-174a0f15ab65)
 
 ___
 #
